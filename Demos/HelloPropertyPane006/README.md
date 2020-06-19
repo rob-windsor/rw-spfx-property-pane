@@ -1,6 +1,6 @@
 ## Demo 6
 
-This project demonstrates how to use the [SPFx Property Pane Controls](https://pnp.github.io/sp-dev-fx-property-controls/). Specifically, it demonstrates how to use the people picker control.
+This project demonstrates how to use the [PnP SPFx Property Pane Controls](https://pnp.github.io/sp-dev-fx-property-controls/). Specifically, it demonstrates how to use the people picker control.
 
 ### Building the code
 
