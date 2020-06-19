@@ -1,26 +1,14 @@
-## hello-property-pane
+## Demo 3
 
-This is where you include your WebPart documentation.
+This project demonstrates how to make the property pane non-reactive. That is, the user will need to click the **Apply** button to apply changes to property values.
 
 ### Building the code
 
 ```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
+npm install
+gulp build
 ```
 
-This package produces the following:
+### Notes
 
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+The web part can run in the local workbench.
